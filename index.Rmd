@@ -1,0 +1,34 @@
+--- 
+title: "A Minimal Capstone Report Example"
+author: "김아무개, 이아무개, 박아무개"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+# 수업과 팀원 소개 {-}
+
+
+__*This book is a final report of a capstone project by [Team Name].*__
+
+__Team Members__: [Team Member Name]
+
+__Course Name__: Foundations of Data Science with Capstone at SMU
+
+__Course Term__: Summer 2021
+
+__Course Description__: Data science is the interdisciplinary study of the tools and theory behind using data to extract knowledge. It combines ideas from statistics, computer science, and particular domains in the physical and social sciences in order to make predictions and optimal decisions.
+
+This SMU summer intensive course is designed with a practical approach. The students will be guided to learn the basics and move on to more advanced topics in 2 weeks. The final 1 week will be dedicated to practicing and presenting data science skills and competency through capstone projects. 
+
+The Data Science Capstone is a team-based, project-based session, providing an opportunity to apply data science skills and knowledge obtained from the first 2 weeks of the foundation session. Teams of two or three students, under the direction of the course instructor and teaching assistants, will be working on a data project. The primary objective is to educate the students in solving real world data science problems in professional settings by leveraging their own computational, statistical, and domain skills. 
+
+The capstone requires two outcomes: A final report (this book) and a final presentation.
+
+
+

@@ -1,0 +1,13 @@
+# 데이터
+
+이 챕터에는 분석을 위해 사용된 데이터에 대해서 설명하고 Data Dictionary를 포함한다.
+
+## 데이터 
+
+## Data Dictionary
+
+- variable1: describe what variable1 is about
+
+- variable2: describe what variable2 is about
+
+- variable3: describe what variable3 is about
