@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Capstone Report Example"
-author: "김아무개, 이아무개, 박아무개"
+title: "Test"
+author: "SeungWook Jeon"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -16,7 +16,7 @@ description: "This is a minimal example of using the bookdown package to write a
 
 __*This book is a final report of a capstone project by [Team Name].*__
 
-__Team Members__: [Team Member Name]
+__Team Members__: SeungWook
 
 __Course Name__: Foundations of Data Science with Capstone at SMU
 
